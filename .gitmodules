@@ -10,3 +10,6 @@
 [submodule "sugar-cli-csharp"]
 	path = sugar-cli-csharp
 	url = git@github.com:jstoledano/sugar-cli-csharp
+[submodule "sugar-cli-go"]
+	path = sugar-cli-go
+	url = git@github.com:jstoledano/sugar-cli-go.git
