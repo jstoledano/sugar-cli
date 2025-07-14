@@ -1,0 +1,3 @@
+[submodule "sugar-cli-cpp"]
+	path = sugar-cli-cpp
+	url = git@github.com:jstoledano/sugar-cli-cpp.git
