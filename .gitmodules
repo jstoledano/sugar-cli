@@ -16,3 +16,6 @@
 [submodule "sugar-cli-rust"]
 	path = sugar-cli-rust
 	url = git@github.com:jstoledano/sugar-cli-rust.git
+[submodule "sugar-cli-fsharp"]
+	path = sugar-cli-fsharp
+	url = git@github.com:jstoledano/sugar-cli-fsharp.git
