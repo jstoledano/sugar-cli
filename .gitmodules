@@ -4,3 +4,6 @@
 [submodule "sugar-cli-java"]
 	path = sugar-cli-java
 	url = git@github.com:jstoledano/sugar-cli-java.git
+[submodule "sugar-cli-python"]
+	path = sugar-cli-python
+	url = git@github.com:jstoledano/sugar-cli-python.git
