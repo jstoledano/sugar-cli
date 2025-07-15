@@ -1,0 +1,29 @@
+# Ignorar archivos de compilación y temporales de cada lenguaje
+# (se definirán más específicamente en cada submódulo)
+build/
+dist/
+target/
+bin/
+obj/
+*.o
+*.so
+*.a
+*.dll
+*.exe
+*.pyc
+*.class
+*.swp
+*~
+
+# Archivos de configuración local
+.env
+.env.*
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.iml
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
